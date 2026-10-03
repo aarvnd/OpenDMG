@@ -55,7 +55,7 @@ shasum -a 256 ~/Downloads/OpenDMG.dmg
 
 ## Questions and problems
 
-Open an [issue](https://github.com/aarvnd/OpenDMG/issues) and describe what happened and which version you use.
+Open an [issue](https://github.com/aarvnd/OpenDMG/issues) and describe what happened and which version you use, or write to [support@opendmg.app](mailto:support@opendmg.app).
 
 To suggest an app for the catalog, use the form on [opendmg.app](https://opendmg.app/#submit).
 
